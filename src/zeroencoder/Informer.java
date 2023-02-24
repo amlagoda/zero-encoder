@@ -3,6 +3,7 @@ package zeroencoder;
 import zeroencoder.operation.OperationType;
 
 import java.util.StringJoiner;
+
 class Informer {
     static String choose() {
         StringJoiner operations = new StringJoiner("/");
